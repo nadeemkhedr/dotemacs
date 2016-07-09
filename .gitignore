@@ -1,0 +1,11 @@
+*.elc
+*.eld
+*.cache
+ac-comphist.dat
+auto-save-list
+bookmarks
+elpa
+geben
+tramp
+url
+recentf
